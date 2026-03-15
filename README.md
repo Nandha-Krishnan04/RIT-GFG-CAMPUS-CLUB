@@ -1,3 +1,6 @@
+######  REFER THE SCREENSHOTS  ######
+
+
 # RIT GFG Campus Club Platform 🚀
 
 ## Overview
