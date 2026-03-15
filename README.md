@@ -46,7 +46,7 @@ This gamified approach makes coding practice **interactive, competitive, and fun
 
 ## Author
 
-Nandha Krishnan M
-Madhan Kumar S
-Kishore R
+Nandha Krishnan M |
+Madhan Kumar S |
+Kishore R |
 Madhan Rahul 
